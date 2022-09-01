@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-- 🌱 I’m currently learning **Frameworks, courses, etc.**
+- 🌱 I’m currently learning Full Stack Development
 
 - 📫 How to reach me **ananyagrawal698@gmail.com**
 
